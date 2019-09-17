@@ -1,0 +1,16 @@
+header {
+	text-align: center;
+}
+body {
+	background-image: url("background-image.png");
+	font-family : "Arial";
+	color : white; }
+}
+
+.hobbies {
+
+}
+
+tr:nth-child(even) {
+	background-color: #525252
+}
